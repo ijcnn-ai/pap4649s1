@@ -1,4 +1,4 @@
-# #871. Learning Optimal Decision Trees with Logical Analysis of Data and its Integration into Random Forest
+# #Leveraging Optimal Decision Trees with Logical Analysis of Data
 The Source code for paper:
 
 [**Learning Optimal Decision Trees with Logical Analysis of Data and its Integration into Random Forest**]
@@ -32,7 +32,7 @@ The Source code for paper:
 ## Prerequisites before running the experiments
 Some necessary python packages needed to execute the codes:
 First, we need to unzip all the folders inside **LAD_based_FS**.
-In directory **871_Optimal_DTs_and_RFs_with_LAD/**, 
+In directory **Optimal_DTs_with_LAD/**, 
 
 1. First, create a virtual environment. For example, we want to create a virtual env called venv with python3.9: **python3.9 -m venv venv**
 2. Then, activate that environment using: **source venv/bin/activate**
